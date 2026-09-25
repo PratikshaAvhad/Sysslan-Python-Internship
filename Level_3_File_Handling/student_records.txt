@@ -1,0 +1,2 @@
+{'Name': 'Akanksha', 'Age': 23, 'Course': 'python'}
+{'Name': 'manisha', 'Age': 28, 'Course': 'data science'}
